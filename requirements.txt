@@ -1,0 +1,8 @@
+json5==0.12.1
+langchain==1.0.5
+langchain-community==0.3.31
+langchain-ollama==1.0.0
+langchain-tavily==0.2.13
+ollama==0.6.0
+onnxruntime==1.23.1
+tavily-python==0.7.13
